@@ -1,9 +1,12 @@
 # js-image-generator
 
-This is a node module for generating random images. 
-I needed this for creating dummy datasets including images in combination with faker.js and / or choice.js
+This is a node module for generating random images.
 
-Generates random colored, noisy images.
+ - Works platform independent
+ - Needs no building thanks to jpeg-js
+ - Generates random colored, noisy images
+
+I needed this for creating dummy datasets including images in combination with faker.js and / or choice.js
 
 Uses the jpeg-js library: https://github.com/eugeneware/jpeg-js
 
