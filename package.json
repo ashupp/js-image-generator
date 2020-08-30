@@ -26,6 +26,6 @@
   "author": "Alexander S. Hupp",
   "license": "ISC",
   "dependencies": {
-    "jpeg-js": "^0.1.2"
+    "jpeg-js": "^0.4.2"
   }
 }
