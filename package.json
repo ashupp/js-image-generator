@@ -6,22 +6,21 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository" :
-  {
-    "type" : "git",
-    "url" : "https://github.com/ashupp/js-image-generator"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ashupp/js-image-generator"
   },
   "keywords": [
     "image",
-	"images",
+    "images",
     "random",
-	"generate",
+    "generate",
     "generator",
     "dummy",
     "testdata",
-	"js",
-	"javascript",
-	"node"
+    "js",
+    "javascript",
+    "node"
   ],
   "author": "Alexander S. Hupp",
   "license": "ISC",
