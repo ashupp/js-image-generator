@@ -1,6 +1,6 @@
 {
   "name": "js-image-generator",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Random image generator",
   "main": "index.js",
   "scripts": {
@@ -26,6 +26,6 @@
   "author": "Alexander S. Hupp",
   "license": "ISC",
   "dependencies": {
-    "jpeg-js": "^0.1.2"
+    "jpeg-js": "^0.4.2"
   }
 }
