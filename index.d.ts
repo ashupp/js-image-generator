@@ -1,6 +1,10 @@
+export interface RawImageData<T> { 
+  data: T;
+}
+
 export declare function generateImage(
   width: number,
   height: number,
   quality: number,
-  callback: function(Error|null, RawImageData<Buffer>)
+  callback: (error: Error | null, imageData: RawImageData<Buffer>) => any
 ): void
